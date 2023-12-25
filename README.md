@@ -1,3 +1,3 @@
 # CORBA
-Primer proyecto usando BootStrap, aprendiendo comandos de GIT y GITHUB.
+Primer proyecto usando HTML+CSS+BOOTSTRAP; aprendiendo comandos de GIT y GITHUB.
 Segundo Francia.
